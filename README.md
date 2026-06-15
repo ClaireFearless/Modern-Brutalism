@@ -1,4 +1,4 @@
-# Portfolio — Modern Brutalism (Next.js)
+# Portfolio — Modern Brutalism Next.Js (On-Progress)
 
 Portfolio dengan tema **modern brutalism** hitam & putih, dibangun dengan Next.js App Router + TypeScript.
 
