@@ -91,7 +91,7 @@ export default function Hero() {
               <span></span>
               <span></span>
             </div>
-            <div className="window-title">Claire — zsh</div>
+            <div className="window-title">./Claire — zsh</div>
           </div>
           <div className="window-body">
             {history.map((h, i) => (

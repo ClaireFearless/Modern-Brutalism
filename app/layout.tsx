@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ony Juna — Portfolio",
+  title: "Onyjuna | Portofolio",
   description:
     "Portfolio ini dibangun dengan Next.js, bergaya modern brutalism.",
 };
